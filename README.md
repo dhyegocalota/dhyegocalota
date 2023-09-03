@@ -25,5 +25,5 @@
   </ul>
   <h2>Contact</h2>
   <p>I love thinking through problems, learning from others, and building relationships that advance the industry.</p>
-  <p>It would be great to hear from you –– directly message me at my <a href="https://www.linkedin.com/in/dhyegocalota/">LinkedIn Profile</a>.</p>
+  <p>It would be great to hear from you – directly message me at my <a href="https://www.linkedin.com/in/dhyegocalota/">LinkedIn Profile</a>.</p>
 </div>
