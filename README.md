@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <a><img src="https://raw.githubusercontent.com/dhyegocalota/dhyegocalota/main/banner.png" /></a>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/dhyegocalota/">
+    <a href="https://www.linkedin.com/in/dhyegocalota/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.instagram.com/dhyegocalota/">
+    <a href="https://www.instagram.com/dhyegocalota/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=dhyegocalota&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dhyegocalota&style=flat-square&color=blue"/>
 </div>
 <div id="content">
   <h1>Welcome to my GitHub Profile</h1>
@@ -25,5 +25,5 @@
   </ul>
   <h2>Contact</h2>
   <p>I love thinking through problems, learning from others, and building relationships that advance the industry.</p>
-  <p>It would be great to hear from you – directly message me at my <a href="https://www.linkedin.com/in/dhyegocalota/">LinkedIn Profile</a>.</p>
+  <p>It would be great to hear from you – directly message me at my <a href="https://www.linkedin.com/in/dhyegocalota/" target="_blank">LinkedIn Profile</a>.</p>
 </div>
