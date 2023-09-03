@@ -16,7 +16,7 @@
   <h2>Skills</h2>
   <ul>
     <li><strong>Languages:</strong> JavaScript, TypeScript, PHP, Ruby, Java, Python, GraphQL, SQL, HTML, CSS, Bash</li>
-    <li><strong>Frameworks and Libraries:</strong> Rails, Quarkus, Flask, React, Redux, Vue, Angular, Next, Redux, Electron, JUnit, Jest, PHPUnit, RSpec, Capybara, Puppeteer</li>
+    <li><strong>Frameworks and Libraries:</strong> Rails, Quarkus, Laravel, Magento, Symfony, WordPress, Flask, React, Redux, Vue, Angular, Next, Redux, Electron, JUnit, Jest, PHPUnit, RSpec, Capybara, Puppeteer</li>
     <li><strong>Platforms:</strong> Heroku, Render, AWS, Google Cloud</li>
     <li><strong>Databases:</strong> Postgres, MySQL, Redis, MongoDB, ElasticSearch, Firebase</li>
     <li><strong>Tools:</strong> Git, GitHub, Docker, Kubernetes, Terraform, Jira, BitBucket</li>
