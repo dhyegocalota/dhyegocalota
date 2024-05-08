@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <a><img src="https://raw.githubusercontent.com/dhyegocalota/dhyegocalota/main/banner.png" /></a>
   <div id="badges">
+    <a href="https://twitter.com/dhyegocalota" target="_blank">
+      <img src="https://img.shields.io/badge/(former%20Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
     <a href="https://www.linkedin.com/in/dhyegocalota/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
