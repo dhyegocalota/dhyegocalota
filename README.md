@@ -16,7 +16,7 @@
 
 <div id="content">
   <h1>Dhyego Calota</h1>
-  <p>Hello everyone,</p>
+  <p>Hello world,</p>
   <p>I'm a Tech Lead Engineer with 14+ years building software, 8 of them for US companies. My passion started early, when I was 11. I was into games, but what really got me was running my own MuOnline server and selling in-game items through websites I built. I ended up reading far more tutorials than actually playing. All of that out of a small town in Mato Grosso, Brazil. I never stopped wanting to know what happens underneath, and that same curiosity still drives how I work.</p>
   <p>Today I lead engineering at Thrifty Traveler, where I design and ship products used by hundreds of thousands of people. A large part of that work is building AI agents and LLM-powered systems for production. On the product side my stack is TypeScript, React, Node.js and NestJS. On the infrastructure side, Python, AWS, Docker and CI/CD.</p>
   <p>Before going global, I spent years in Brazilian companies doing solid but predictable work. In late 2018 I decided to build for the international market instead, and I haven't looked back. Along the way I helped build a platform from the ground up that became a critical component of the voluntary carbon market, used by some of the world's largest corporations and banks.</p>
