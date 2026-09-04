@@ -24,14 +24,15 @@
   <p>What the leaders I've worked with consistently tell me sets me apart is that I see the whole picture. I don't take a task just to close it. I want to understand why it exists, and I speak up when there's a better way for the business. That accountability is what turned me from an engineer into a lead.</p>
   <p>Core skills: Tech Leadership, AI Agents, LLMs, Full-Stack TypeScript, React, Node.js, NestJS, Python, Ruby on Rails, AWS, Docker, CI/CD, TDD, System Design, Incident Response.</p>
   <details>
-    <summary>Full list of languages, frameworks, platforms, databases and tools</summary>
+    <summary>Full list of AI stack, languages, frameworks, platforms, databases and tools</summary>
     <ul>
-      <li><strong>Languages:</strong> JavaScript, TypeScript, PHP, Ruby, Java, Python, GraphQL, SQL, HTML, CSS, Bash</li>
-      <li><strong>Frameworks and Libraries:</strong> Rails, Quarkus, Laravel, Magento, Symfony, WordPress, Flask, React, Redux, Vue, Angular, Next, Redux, Electron, JUnit, Jest, PHPUnit, RSpec, Capybara, Puppeteer</li>
-      <li><strong>Platforms:</strong> Heroku, Render, AWS, Google Cloud</li>
-      <li><strong>Databases:</strong> Postgres, MySQL, Redis, MongoDB, ElasticSearch, Firebase</li>
-      <li><strong>Tools:</strong> Git, GitHub, Docker, Kubernetes, Terraform, Jira, BitBucket</li>
-      <li><strong>Miscellaneous:</strong> Backend, Frontend, Databases, Infrastructure, System Architecture, System Design, Clean Code, Monitoring, Incident Response, Distributed Systems, OOP, REST, GRPC, Web Sockets, Webhooks, Protocols, DNS, CI/CD, SSR, OAuth, MFA, Rate Limiting, Scrapping, Unit + Integration + Acceptance Testing, Integrations, Monolithic Architecture, Modular Architecture, Unix, Scrum, Mobile Development, Desktop Development, Refactoring, Performance Testing, Fine-tuning, Code Review</li>
+      <li><strong>AI:</strong> LangGraph, LangChain, Vercel AI SDK, OpenRouter, Anthropic Claude, OpenAI, Google Gemini, Hugging Face Transformers, Claude Code, MCP (Model Context Protocol), Langfuse, Mastra, n8n, Agent Orchestration, Prompt Engineering, Structured Output, Evals, Harness Engineering</li>
+      <li><strong>Languages:</strong> TypeScript, JavaScript, PHP, Python, Ruby, Java, GraphQL, SQL, HTML, CSS, Bash</li>
+      <li><strong>Frameworks and Libraries:</strong> React, Next.js, NestJS, Node.js, Rails, Laravel, WordPress (Roots Sage, Acorn, Blade), Quarkus, Vue, Angular, Electron, Flask, Symfony, Magento, Redux, React Query, Tailwind CSS, Drizzle ORM, Better Auth, Zod, Jest, Vitest, Playwright, Testcontainers, JUnit, PHPUnit, RSpec, Capybara, Puppeteer</li>
+      <li><strong>Platforms and Infrastructure:</strong> AWS (Lambda, DynamoDB, S3, SQS, SNS, API Gateway, Cognito, CDK), Cloudflare (Workers, D1, R2, KV, WAF), Vercel, Google Cloud, Turso, Dokploy, Kinsta, Docker, Heroku, Render</li>
+      <li><strong>Databases:</strong> Postgres, MySQL, Redis, MongoDB, DynamoDB, SQLite and libSQL (Turso), Cloudflare D1, ElasticSearch, Firebase</li>
+      <li><strong>Tools:</strong> Git, GitHub, GitHub Actions, Nx, Turborepo, Bun, pnpm, Biome, ESLint, Sentry, Stripe, ActiveCampaign, Google Tag Manager, GA4, Jira, Confluence, Docker, Kubernetes, Terraform</li>
+      <li><strong>Miscellaneous:</strong> AI Agents in Production, LLM Orchestration, Agentic Workflows, Backend, Frontend, Databases, Infrastructure, System Architecture, System Design, Clean Code, Monitoring, Observability, Incident Response, Post-Mortems, Security Hardening, Distributed Systems, OOP, REST, GRPC, Web Sockets, Webhooks, Protocols, DNS, CI/CD, SSR, OAuth, MFA, Rate Limiting, Scraping, Unit + Integration + Acceptance Testing, Integrations, Monolithic Architecture, Modular Architecture, Unix, Scrum, Web Performance, SEO, Mobile Development, Desktop Development, Refactoring, Performance Testing, Code Review, Technical Writing</li>
       <li><strong>Soft Skills:</strong> Collaboration, Communication, Critical Thinking, Problem-Solving, Technical Writing, Planning, Time Management, Mentoring, Accountability, Adaptability, Risk Mitigation</li>
     </ul>
   </details>
