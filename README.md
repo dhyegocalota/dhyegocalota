@@ -4,9 +4,6 @@
     <a href="https://twitter.com/dhyegocalota" target="_blank">
       <img src="https://img.shields.io/badge/(former%20Twitter)-000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/dhyegocalota/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
     <a href="https://www.instagram.com/dhyegocalota/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
